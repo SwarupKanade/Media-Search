@@ -1,5 +1,5 @@
 # Media-Search
-A Simple Movie Application using React JS  allows the user to search and filter movies they want from the MovieDB API.
+A Simple Media Application using React JS  allows the user to search and filter Movies and Tv Shows they want from the TMDB API.
 
 This is a responsive web application for viewing in both Mobile and Desktop.
 
